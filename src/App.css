@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+  .navbar-collapse {
+    display: flex;
+    justify-content: center;
+  }
+}
+.carousel-indicators button {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 50% !important;
+  background-color: #0000007a !important; /* Change this color to match your design */
+}
+
+.carousel-indicators .active {
+  background-color: #fff; /* Change this color to match your design */
+}

@@ -1,0 +1,13 @@
+.cartCount {
+  margin-left: -42px !important;
+  margin-top: -30px !important;
+}
+.dropdown-content {
+  display: none !important;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+}
+.dropdown:hover .dropdown-content {
+  display: block !important;
+}
