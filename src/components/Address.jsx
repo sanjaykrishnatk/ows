@@ -58,7 +58,7 @@ function Address() {
       <Col
         md={6}
         sm={6}
-        className={`${
+        className={`d-flex align-items-center ${
           isMobile ? "justify-content-start mb-2" : "justify-content-end"
         }`}
       >
